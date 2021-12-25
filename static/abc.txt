@@ -1,0 +1,2 @@
+i am static file . my name is abc.txt.
+Hellow world.
